@@ -14,7 +14,7 @@ https://ian-bravo.github.io/template/
 * _HTML_
 * _CSS_
 * _JavaScript_
-* _npm v8.1.2_
+* _npm v9.6.7_
 * _node v18.17.1_
 * _API_
 
